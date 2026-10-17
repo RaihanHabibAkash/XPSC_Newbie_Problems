@@ -23,3 +23,5 @@
 ## <-----Topic----->
 
 [A. Make it White - 1927(800)](https://codeforces.com/contest/1927/problem/A)
+
+[A. Sereja and Dima - 381(800)](https://codeforces.com/contest/381/problem/A)
