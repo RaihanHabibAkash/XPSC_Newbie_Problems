@@ -25,9 +25,7 @@ int main() {
         mp[{s1, s2}] = true;
     }
 
-    int cnt = 0;
-    for(auto x : mp) cnt++;
-    cout << cnt << endl;
+    cout << mp.size() << endl;
     
     return 0;
 }
