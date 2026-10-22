@@ -61,3 +61,5 @@
 [A. Sereja and Dima - 381(800)](https://codeforces.com/contest/381/problem/A)
 
 [A. Indian Summer - 44(900)](https://codeforces.com/problemset/problem/44/A)
+
+[B. Misha and Changing Handles - 501(1100)](https://codeforces.com/problemset/problem/501/B)
