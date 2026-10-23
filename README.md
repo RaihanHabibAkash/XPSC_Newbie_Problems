@@ -63,3 +63,5 @@
 [A. Indian Summer - 44(900)](https://codeforces.com/problemset/problem/44/A)
 
 [B. Misha and Changing Handles - 501(1100)](https://codeforces.com/problemset/problem/501/B)
+
+[C. Word Game - 1772(800)](https://codeforces.com/problemset/problem/1722/C)
