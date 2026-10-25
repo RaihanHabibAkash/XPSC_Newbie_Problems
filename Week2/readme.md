@@ -31,3 +31,5 @@
 [B. Misha and Changing Handles - 501(1100)](https://codeforces.com/problemset/problem/501/B)
 
 [C. Word Game - 1772(800)](https://codeforces.com/problemset/problem/1722/C)
+
+[B. YetnotherrokenKeoard - 1907(1000)](https://codeforces.com/problemset/problem/1907/B)
