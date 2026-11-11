@@ -43,3 +43,5 @@
 [B. Remove Prefix - 1714(800)](https://codeforces.com/contest/1714/problem/B)
 
 [B. Symmetric Encoding - 1974(800)](https://codeforces.com/contest/1974/problem/B)
+
+[C. Boxes Packing - 903(1200)](https://codeforces.com/problemset/problem/903/C)
