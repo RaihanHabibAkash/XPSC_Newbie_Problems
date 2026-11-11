@@ -39,3 +39,5 @@
 [B. Chat Order - 637(1200)](https://codeforces.com/contest/637/problem/B)
 
 [A. Tom Riddle's Diary - 855(800)](https://codeforces.com/contest/855/problem/A)
+
+[B. Remove Prefix - 1714(800)](https://codeforces.com/contest/1714/problem/B)
