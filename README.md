@@ -36,7 +36,7 @@
 
 ## <------Week2------>
 
-### Not Topic
+### Not Topic-2
 
 [Heat Wave - 228](https://www.codechef.com/problems/HEATWAVE)
 
@@ -54,7 +54,7 @@
 
 [D. Line - 1772(1100)](https://codeforces.com/contest/1722/problem/D)
 
-### Topic
+### Topic-2
 
 [A. Make it White - 1927(800)](https://codeforces.com/contest/1927/problem/A)
 
@@ -79,3 +79,11 @@
 [B. Symmetric Encoding - 1974(800)](https://codeforces.com/contest/1974/problem/B)
 
 [C. Boxes Packing - 903(1200)](https://codeforces.com/problemset/problem/903/C)
+
+### ______________________________________________________________________________________________
+
+## <------Week3------>
+
+### Topic-3
+
+[B. Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)
