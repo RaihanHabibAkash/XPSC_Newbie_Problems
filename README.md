@@ -54,7 +54,7 @@
 
 [D. Line - 1772(1100)](https://codeforces.com/contest/1722/problem/D)
 
-### Topic-2
+### Topic-2 (STL-1 -> Vector, Map, Deque, Pair, Tuple, String)
 
 [A. Make it White - 1927(800)](https://codeforces.com/contest/1927/problem/A)
 
@@ -84,6 +84,8 @@
 
 ## <------Week3------>
 
-### Topic-3
+### Topic-3 (STL-2 -> Set, Multiset, Priority Queue)
 
 [B. Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)
+
+[B. Polycarp Training - 1165(1000)](https://codeforces.com/contest/1165/problem/B)
