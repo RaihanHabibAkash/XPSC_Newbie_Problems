@@ -15,3 +15,5 @@
 [C. Train and Queries - 1702(1100)](https://codeforces.com/contest/1702/problem/C)
 
 [C. Berpizza - 1468(1400)](https://codeforces.com/contest/1468/problem/C)
+
+[C. Dora and Search - 1793(1200)](https://codeforces.com/problemset/problem/1793/C)
