@@ -1,4 +1,4 @@
-// Problem: C. Dora and Search
+// Problem: C. Dora and Searchh:\Codes\Competative_Programe\CodeforcesProblems\1000 Rating\p2000C_Numeric_String_Template.cpp
 // Platform: Codeforces
 // Rating: 1200
 // Link: https://codeforces.com/problemset/problem/1793/C

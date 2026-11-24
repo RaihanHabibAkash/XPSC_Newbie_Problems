@@ -97,3 +97,5 @@
 [C. Berpizza - 1468(1400)](https://codeforces.com/contest/1468/problem/C)
 
 [C. Dora and Search - 1793(1200)](https://codeforces.com/problemset/problem/1793/C)
+
+[C. Numeric String Template - 2000(1000)](https://codeforces.com/contest/2000/problem/C)
