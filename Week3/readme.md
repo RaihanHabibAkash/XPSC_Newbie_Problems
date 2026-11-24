@@ -21,3 +21,5 @@
 [C. Numeric String Template - 2000(1000)](https://codeforces.com/contest/2000/problem/C)
 
 [B. Box Fitting - 1498(1300)](https://codeforces.com/contest/1498/problem/B)
+
+[E. 2-Letter Strings - 1669(1200)](https://codeforces.com/contest/1669/problem/E)
