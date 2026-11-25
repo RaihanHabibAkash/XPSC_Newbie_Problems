@@ -23,3 +23,5 @@
 [B. Box Fitting - 1498(1300)](https://codeforces.com/contest/1498/problem/B)
 
 [E. 2-Letter Strings - 1669(1200)](https://codeforces.com/contest/1669/problem/E)
+
+[C. Numbers on Whiteboard - 1430(1000)](https://codeforces.com/contest/1430/problem/C)
